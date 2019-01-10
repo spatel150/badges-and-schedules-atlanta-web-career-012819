@@ -10,7 +10,7 @@ end
 def assign_rooms(array)
   new_aray = []
   counter = 1
-  array.
+  array.each do 
 end
   
 
